@@ -1,0 +1,41 @@
+{
+  "build": "py312haa95532_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "python >=3.12,<3.13.0a0"
+  ],
+  "extracted_package_dir": "C:\\Users\\Juan\\anaconda3\\pkgs\\typing_extensions-4.12.2-py312haa95532_0",
+  "files": [
+    "Lib/site-packages/__pycache__/typing_extensions.cpython-312.pyc",
+    "Lib/site-packages/typing_extensions-4.12.2.dist-info/INSTALLER",
+    "Lib/site-packages/typing_extensions-4.12.2.dist-info/LICENSE",
+    "Lib/site-packages/typing_extensions-4.12.2.dist-info/METADATA",
+    "Lib/site-packages/typing_extensions-4.12.2.dist-info/RECORD",
+    "Lib/site-packages/typing_extensions-4.12.2.dist-info/REQUESTED",
+    "Lib/site-packages/typing_extensions-4.12.2.dist-info/WHEEL",
+    "Lib/site-packages/typing_extensions-4.12.2.dist-info/direct_url.json",
+    "Lib/site-packages/typing_extensions.py"
+  ],
+  "fn": "typing_extensions-4.12.2-py312haa95532_0.conda",
+  "license": "PSF-2.0",
+  "link": {
+    "source": "C:\\Users\\Juan\\anaconda3\\pkgs\\typing_extensions-4.12.2-py312haa95532_0",
+    "type": 1
+  },
+  "md5": "aec6aa2ca5e11f9ca6c521536990d951",
+  "name": "typing_extensions",
+  "package_tarball_full_path": "C:\\Users\\Juan\\anaconda3\\pkgs\\typing_extensions-4.12.2-py312haa95532_0.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "011f500afe517d721e22b3112b94a7daab1b742ff458ffec5472d816fe58752c",
+  "size": 81674,
+  "subdir": "win-64",
+  "timestamp": 1734715132000,
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/typing_extensions-4.12.2-py312haa95532_0.conda",
+  "version": "4.12.2"
+}
